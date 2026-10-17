@@ -1,0 +1,70 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name" translatable="false">D sky</string>
+  <string name="status_exposed">Tap to connect</string>
+  <string name="status_protected">Connected</string>
+  <string name="status_upgraded">Vulnerable</string>
+  <string name="status_strict">Protected by Android</string>
+  <string name="explanation_vpn">Dsky has detected another VPN on your device.</string>
+  <string name="num_requests">Lifetime Queries</string>
+  <string name="server_label">DNS Server</string>
+  <string name="default_server_label">DNS Server</string>
+  <string name="unknown_server">Unknown server</string>
+  <string name="try_all_servers">Try all built-in servers</string>
+  <string name="notification_title">Dsky protection is active</string>
+  <string name="notification_content">Tap to change DNS protection settings</string>
+  <string name="channel_name">Dsky Status Notification</string>
+  <string name="channel_description">This notification appears while Dsky protection is active.</string>
+  <string name="warning_title">Dsky has been deactivated</string>
+  <string name="warning_channel_name">Warnings</string>
+  <string name="warning_channel_description">Shown when Dsky has encountered a problem.</string>
+  <string name="custom_server" translatable="false">Google DNS</string>
+  <string name="using_dns_server" translatable="false">Using DNS server</string>
+  <string name="you_went_out_of_orbit">you went out of orbit!</string>
+  <string name="subtitle_fast_stable_seamless">Stable • Fast • Seamless</string>
+  <string name="content_desc_change_server">Change Server</string>
+  <string name="not_available">Not Available!</string>
+  <string name="menu">Menu</string>
+  <string name="help">Help</string>
+  <string name="support">Support</string>
+  <string name="rate_app">Rate App</string>
+  <string name="help_title">Help</string>
+  <string name="help_message">Dsky is an advanced security tool that encrypts and protects your DNS traffic.\n\n What is DNS and DoH?\n Whenever you open a website, its domain name is translated into an IP address. Normally, this process is unencrypted and can be monitored by your internet provider. With DNS over HTTPS (DoH), Dsky routes all DNS requests through a fully encrypted and secure tunnel, preventing eavesdropping and tracking. \n\n App Management &amp; Filtering (Split Tunneling): \n By default, traffic from all apps on your device is secured and routed through DoH. However, by tapping the Settings (slider) icon at the top of the screen, you can exclude specific apps: \n\n • Fix compatibility issues: Some banking apps, financial services, or ride-hailing apps may not work properly with custom DNS servers. By selecting them from the list, they will use your device\'s default internet connection directly without interruption. \n\n • Optimize speed and latency: You can exclude non-sensitive apps or games from the secure tunnel to reduce network overhead and improve performance.</string>
+  <string name="got_it">Got It</string>
+  <string name="support_feedback_title">Support; Feedback</string>
+  <string name="support_message">If you have any questions, suggestions, or bug reports, you can contact the developer via email.</string>
+  <string name="cancel">Cancel</string>
+  <string name="continuee">Continue</string>
+  <string name="email_subject_feedback" translatable="false">D sky</string>
+  <string name="email_app_not_found">No Email App Found</string>
+  <string name="rate_app_title">Rate the App</string>
+  <string name="rate_app_message">If youre enjoying Dsky, please consider rating it on Myket. Your feedback helps us improve the app and deliver a better experience.</string>
+  <string name="later">Later</string>
+  <string name="submit_rating">Rate Now</string>
+  <string name="browser_not_found">No Browser Found</string>
+  <string name="excluded_apps_title">Excluded Apps</string>
+  <string name="excluded_apps_help_message">Apps selected in this list will be excluded from DNS filtering.\n\nTheir traffic will use the devices default DNS settings directly.</string>
+  <string name="search_hint">Search …</string>
+  <string name="server_selected">Server %s selected</string>
+  <string name="loading_dots" translatable="false">•••</string>
+  <string name="select_server_title">Select Server</string>
+  <string name="filter_all">All</string>
+  <string name="filter_gaming">Gaming</string>
+  <string name="filter_privacy">Privacy</string>
+  <string name="filter_security">Security</string>
+  <string name="filter_ads">Ad Blocking</string>
+  <string name="filter_family">Family</string>
+  <string name="filter_sanction">Geo-Unlock</string>
+  <string name="filter_general">General</string>
+  <string name="ip_filter_both">Both</string>
+  <string name="ip_filter_ipv4">IPv4 Only</string>
+  <string name="ip_filter_ipv6">IPv6 Only</string>
+  <string name="ip_filter_title">Select Network Protocol</string>
+  <string name="close">Close</string>
+
+  <string name="telegram_channel_title">Telegram Channel</string>
+  <string name="telegram_channel_message">Join our Telegram channel for the latest news, updates, and tutorials.</string>
+  <string name="join_telegram">Join Channel</string>
+
+  <string name="github_redirect_title" translatable="false">GitHub</string>
+  <string name="github_redirect_message">You will be redirected to the Dsky GitHub page. Do you want to continue?</string>
+</resources>

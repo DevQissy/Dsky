@@ -1,0 +1,68 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="status_exposed">برای اتصال ضربه بزنید</string>
+  <string name="status_protected">متصل شد</string>
+  <string name="status_upgraded">آسیب‌پذیر</string>
+  <string name="status_strict">محافظت‌شده توسط سیستم‌عامل</string>
+  <string name="explanation_vpn">یک سرویس VPN دیگر در دستگاه شما فعال است.</string>
+  <string name="num_requests">کل درخواست‌ها</string>
+  <string name="server_label">سرویس فعلی</string>
+  <string name="default_server_label">سرویس فعلی</string>
+  <string name="unknown_server">سرور ناشناس</string>
+  <string name="notification_title">Dsky فعال است</string>
+  <string name="notification_content">برای مدیریت وضعیت ضربه بزنید</string>
+  <string name="channel_name">وضعیت Dsky</string>
+  <string name="channel_description">نمایش اعلان در زمان فعال بودن محافظت DNS.</string>
+  <string name="warning_title">هشدار: Dsky غیرفعال شد</string>
+  <string name="warning_channel_name">هشدارها</string>
+  <string name="warning_channel_description">نمایش اعلان در صورت بروز مشکل در عملکرد برنامه.</string>
+  <string name="you_went_out_of_orbit">از مدار خارج شدید!</string>
+  <string name="subtitle_fast_stable_seamless">پایدار. سریع. یکپارچه</string>
+  <string name="content_desc_change_server">تغییر سرور</string>
+  <string name="not_available">در دسترس نیست!</string>
+  <string name="menu">منو</string>
+  <string name="help">راهنما</string>
+  <string name="support">پشتیبانی</string>
+  <string name="rate_app">امتیاز به برنامه</string>
+  <string name="help_title">راهنما</string>
+  <string name="help_message">برنامه Dsky یک ابزار امنیتی پیشرفته است که ترافیک DNS شما را رمزگذاری و محافظت می‌کند.\n\nدی‌ان‌اس (DNS) و فناوری DoH چیست؟\nهر بار که سایتی را باز می‌کنید، نام آن به آدرس IP تبدیل می‌شود. در حالت عادی این فرآیند بدون رمزگذاری است و ارائه‌دهنده اینترنت می‌تواند آن را ردیابی کند. Dsky با فناوری DoH (DNS over HTTPS) تمام این درخواست‌ها را درون یک تونل کاملاً رمزگذاری‌شده و غیرقابل شنود قرار می‌دهد.\n\nمدیریت و فیلتر برنامه‌ها (Split Tunneling):\nبه‌صورت پیش‌فرض، ترافیک تمام برنامه‌های دستگاه شما امن شده و از پروتکل DoH عبور می‌کند. اما با کلیک روی آیکون تنظیمات (اسلایدر) در بالای صفحه، می‌توانید برنامه‌های دلخواه را مستثنی و خارج کنید:\n• حل مشکل برنامه‌های داخلی: برخی همراه بانک‌ها، برنامه‌های مالی یا تاکسی‌های اینترنتی با DNSهای سفارشی سازگار نیستند. با تیک زدن آن‌ها در لیست، مستقیماً و بدون اختلال از اینترنت پیش‌فرض گوشی استفاده خواهند کرد.\n• بهینه‌سازی سرعت و پینگ: می‌توانید برنامه‌ها یا بازی‌های غیرحساس را از تونل خارج کنید تا بار پردازشی شبکه کاهش یابد.</string>
+  <string name="got_it">متوجه شدم</string>
+  <string name="support_feedback_title">پشتیبانی و بازخورد</string>
+  <string name="support_message">جهت ارسال سوالات، پیشنهادات یا گزارش مشکلات، می‌توانید از طریق ارسال ایمیل با توسعه‌دهنده در ارتباط باشید.</string>
+  <string name="cancel">انصراف</string>
+
+  <string name="telegram_channel_title">کانال تلگرام</string>
+  <string name="telegram_channel_message">برای اطلاع از آخرین اخبار، به‌روزرسانی‌ها و آموزش‌ها به کانال تلگرام ما بپیوندید.</string>
+  <string name="join_telegram">عضویت در کانال</string>
+
+
+  <string name="try_all_servers">برسی سرور های داخلی</string>
+  <string name="continuee">ادامه</string>
+  <string name="email_app_not_found">اپلیکیشن ایمیل یافت نشد</string>
+  <string name="rate_app_title">امتیاز به برنامه</string>
+  <string name="later">بعدا</string>
+
+  <string name="rate_app_message">اگر از برنامه Dsky رضایت دارید با ثبت امتیاز خود در مایکت از ما حمایت کنید. نظرات شما به بهبود کیفیت برنامه کمک خواهد کرد.</string>
+
+
+  <string name="submit_rating">امتیاز دادن</string>
+  <string name="browser_not_found">مرورگر یافت نشد</string>
+  <string name="excluded_apps_title">برنامه‌های مستثنی</string>
+  <string name="excluded_apps_help_message">برنامه‌هایی که در این لیست انتخاب می‌کنید از فیلتر DNS مستثنی می‌شوند.\n\nترافیک این برنامه‌ها مستقیماً از DNS پیش‌فرض دستگاه استفاده می‌کنند.</string>
+  <string name="search_hint">جستجو …</string>
+  <string name="server_selected">سرور %s انتخاب شد</string>
+  <string name="select_server_title">انتخاب سرور</string>
+  <string name="filter_all">همه</string>
+  <string name="filter_gaming">گیمینگ</string>
+  <string name="filter_privacy">حریم خصوصی</string>
+  <string name="filter_security">امنیت</string>
+  <string name="filter_ads">تبلیغات</string>
+  <string name="filter_family">خانواده</string>
+  <string name="filter_sanction">تحریم</string>
+  <string name="filter_general">عمومی</string>
+  <string name="ip_filter_both">هر دو</string>
+  <string name="ip_filter_ipv4">فقط IPv4</string>
+  <string name="ip_filter_ipv6">فقط IPv6</string>
+  <string name="ip_filter_title">انتخاب پروتکل شبکه</string>
+  <string name="close">بستن</string>
+  <string name="github_redirect_message">درحال هدایت به صفحه گیت هاب برنامه هستید. ایا ادامه میدهید؟</string>
+</resources>

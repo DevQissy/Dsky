@@ -1,0 +1,1272 @@
+[
+  {
+    "url": "https://1.1.1.1/dns-query",
+    "name": "Cloudflare (Gaming)",
+    "ips_v4": "1.1.1.1,1.0.0.1",
+    "ips_v6": "",
+    "description": "Ultra-low latency DNS, a popular choice for online gaming.",
+    "description_fa": "DNS با تأخیر بسیار پایین که برای بازی‌های آنلاین گزینه محبوبی است.",
+    "website": "https://1.1.1.1/",
+    "tag": "C"
+  },
+  {
+    "url": "https://9.9.9.9/dns-query",
+    "name": "Quad9 Secure DNS",
+    "ips_v4": "9.9.9.9,149.112.112.112",
+    "ips_v6": "2620:fe::fe",
+    "description": "Global DNS service that blocks malicious domains to keep you more secure.",
+    "description_fa": "سرویس DNS جهانی که دامنه‌های مخرب را مسدود می‌کند و امنیت مرور را بالا می‌برد.",
+    "website": "https://www.quad9.net/",
+    "tag": "S"
+  },
+  {
+    "url": "https://185.228.168.9/doh/security-filter/",
+    "name": "CleanBrowsing Security",
+    "ips_v4": "185.228.168.9,185.228.169.9",
+    "ips_v6": "",
+    "description": "Privacy-focused resolver that filters out malicious and harmful content.",
+    "description_fa": "رزولور متمرکز بر حریم خصوصی که محتوای مخرب و آسیب‌رسان را فیلتر می‌کند.",
+    "website": "https://cleanbrowsing.org/",
+    "tag": "S"
+  },
+  {
+    "url": "https://146.255.56.98/query",
+    "name": "Applied Privacy",
+    "ips_v4": "146.255.56.98",
+    "ips_v6": "2a02:1b8:10:21::2",
+    "description": "Privacy-centric DNS server based in Austria, run by a non-profit group.",
+    "description_fa": "سرور DNS متمرکز بر حریم خصوصی، مستقر در اتریش و اداره‌شده توسط یک گروه غیرانتفاعی.",
+    "website": "https://applied-privacy.net/",
+    "tag": "S"
+  },
+  {
+    "url": "https://8.8.8.8/dns-query",
+    "name": "Google DNS (Gaming)",
+    "ips_v4": "8.8.8.8,8.8.4.4",
+    "ips_v6": "",
+    "description": "Google's fast global DNS, often the top pick for low-latency gaming.",
+    "description_fa": "DNS سریع و جهانی گوگل که اغلب به‌خاطر تأخیر کم، انتخاب اول گیمرها است.",
+    "website": "https://developers.google.com/speed/public-dns/",
+    "tag": "C"
+  },
+  {
+    "url": "https://185.222.222.222/dns-query",
+    "name": "DNS.SB",
+    "ips_v4": "185.222.222.222,45.11.45.11",
+    "ips_v6": "",
+    "description": "Privacy-focused DNS with a strict no-logging policy and presence around the world.",
+    "description_fa": "سرویس DNS متمرکز بر حریم خصوصی با سیاست سخت‌گیرانه عدم ثبت لاگ و حضور در نقاط مختلف جهان.",
+    "website": "https://dns.sb/",
+    "tag": "S"
+  },
+  {
+    "url": "https://103.2.57.5/dns-query",
+    "name": "Internet Initiative Japan",
+    "ips_v4": "103.2.57.5",
+    "ips_v6": "2001:240:2200::5",
+    "description": "Japanese public DNS service run by IIJ, a major local ISP.",
+    "description_fa": "سرویس DNS عمومی ژاپنی که توسط IIJ، یکی از ارائه‌دهندگان بزرگ اینترنت این کشور، اداره می‌شود.",
+    "website": "https://public.dns.iij.jp/",
+    "tag": "G"
+  },
+  {
+    "url": "https://101.101.101.101/dns-query",
+    "name": "TWNIC Quad101",
+    "ips_v4": "101.101.101.101",
+    "ips_v6": "2001:de4::101",
+    "description": "Public DNS server in Taiwan, operated by the Taiwan Network Information Center.",
+    "description_fa": "سرور DNS عمومی تایوان که توسط مرکز اطلاعات شبکه تایوان اداره می‌شود.",
+    "website": "https://101.101.101.101/",
+    "tag": "G"
+  },
+  {
+    "url": "https://1.0.0.1/dns-query",
+    "name": "Cloudflare (Alt IP)",
+    "ips_v4": "1.0.0.1,1.1.1.1",
+    "ips_v6": "",
+    "description": "Secondary IP for Cloudflare DNS, handy as a backup for uninterrupted connectivity.",
+    "description_fa": "آدرس IP ثانویه DNS کلودفلر؛ گزینه‌ای مناسب برای حفظ اتصال در صورت قطع آدرس اصلی.",
+    "website": "https://1.1.1.1/",
+    "tag": "G"
+  },
+  {
+    "url": "https://46.227.200.55/dns-query",
+    "name": "FAELIX",
+    "ips_v4": "46.227.200.55",
+    "ips_v6": "2a03:6000:2:1::1",
+    "description": "Independent DNS resolver with nodes in the UK and Switzerland.",
+    "description_fa": "رزولور DNS مستقل با گره‌هایی در بریتانیا و سوئیس.",
+    "website": "https://faelix.net/",
+    "tag": "S"
+  },
+  {
+    "url": "https://217.169.20.22/dns-query",
+    "name": "Andrews & Arnold",
+    "ips_v4": "217.169.20.22,217.169.20.23",
+    "ips_v6": "",
+    "description": "Trusted DNS server run by Andrews & Arnold, a leading British ISP.",
+    "description_fa": "سرور DNS معتبر که توسط A&A، یکی از ارائه‌دهندگان پیشرو اینترنت بریتانیا، اداره می‌شود.",
+    "website": "https://www.aa.net.uk/",
+    "tag": "S"
+  },
+  {
+    "url": "https://45.155.171.163/dns-query",
+    "name": "42l Association",
+    "ips_v4": "45.155.171.163",
+    "ips_v6": "2a09:6382:4000:3:45:155:171:163",
+    "description": "Privacy-friendly DNS service from a non-profit association in France.",
+    "description_fa": "سرویس DNS دوستدار حریم خصوصی که توسط یک انجمن غیرانتفاعی در فرانسه ارائه می‌شود.",
+    "website": "https://42l.fr/",
+    "tag": "S"
+  },
+  {
+    "url": "https://185.95.218.42/dns-query",
+    "name": "Digitale Gesellschaft",
+    "ips_v4": "185.95.218.42,185.95.218.43",
+    "ips_v6": "",
+    "description": "Swiss DNS resolver focused on digital rights and user privacy.",
+    "description_fa": "رزولور DNS سوئیسی با تمرکز بر حقوق دیجیتال و حریم خصوصی کاربر.",
+    "website": "https://www.digitale-gesellschaft.ch/",
+    "tag": "S"
+  },
+  {
+    "url": "https://95.216.24.230/dns-query",
+    "name": "Snopyta",
+    "ips_v4": "95.216.24.230",
+    "ips_v6": "2a01:4f9:2a:1919::9301",
+    "description": "Finnish DNS service that promotes decentralization and privacy.",
+    "description_fa": "سرویس DNS فنلاندی که تمرکززدایی و حریم خصوصی را در اولویت قرار می‌دهد.",
+    "website": "https://snopyta.org/",
+    "tag": "S"
+  },
+  {
+    "url": "https://146.112.41.2/dns-query",
+    "name": "OpenDNS",
+    "ips_v4": "146.112.41.2",
+    "ips_v6": "2620:119:fc::2",
+    "description": "Global DNS service by Cisco, built for fast and secure resolution.",
+    "description_fa": "سرویس DNS جهانی سیسکو، طراحی‌شده برای رفع نام سریع و امن.",
+    "website": "https://www.opendns.com/",
+    "tag": "G"
+  },
+  {
+    "url": "https://185.235.81.1/dns-query",
+    "name": "DNSlify",
+    "ips_v4": "185.235.81.1",
+    "ips_v6": "2a0d:4d00:81::1",
+    "description": "Anycast-based public DNS resolver, tuned for speed and reliability.",
+    "description_fa": "رزولور عمومی DNS مبتنی بر Anycast که برای سرعت و پایداری بهینه شده است.",
+    "website": "https://www.dnslify.com/",
+    "tag": "S"
+  },
+  {
+    "url": "https://149.112.121.10/dns-query",
+    "name": "Canadian Shield",
+    "ips_v4": "149.112.121.10",
+    "ips_v6": "2620:10a:80bb::10",
+    "description": "National DNS service that protects Canadian users from cyber threats.",
+    "description_fa": "سرویس DNS ملی کانادا که کاربران این کشور را در برابر تهدیدات سایبری محافظت می‌کند.",
+    "website": "https://www.cira.ca/",
+    "tag": "S"
+  },
+  {
+    "url": "https://94.140.14.14/dns-query",
+    "name": "AdGuard DNS",
+    "ips_v4": "94.140.14.14,94.140.15.15",
+    "ips_v6": "",
+    "description": "Blocks ads and trackers effectively, speeding up browsing while protecting your privacy.",
+    "description_fa": "تبلیغات و ردیاب‌ها را به‌طور مؤثر مسدود می‌کند و هم سرعت مرور را بالا می‌برد، هم حریم خصوصی را حفظ می‌کند.",
+    "website": "https://adguard-dns.io/",
+    "tag": "A"
+  },
+  {
+    "url": "https://4.2.2.4/dns-query",
+    "name": "Level3 (Global Gaming)",
+    "ips_v4": "4.2.2.4,4.2.2.2",
+    "ips_v6": "",
+    "description": "High-performance DNS from one of the world's largest network backbones.",
+    "description_fa": "DNS با کارایی بالا، روی یکی از بزرگ‌ترین زیرساخت‌های شبکه جهان.",
+    "website": "https://www.lumen.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh.opendns.com/dns-query",
+    "name": "OpenDNS Home (Gaming)",
+    "ips_v4": "208.67.222.222,208.67.220.220",
+    "ips_v6": "",
+    "description": "Cisco's reliable DNS with strong global peering for low lag.",
+    "description_fa": "DNS قابل‌اعتماد سیسکو با اتصال جهانی قوی که تأخیر را پایین نگه می‌دارد.",
+    "website": "https://www.opendns.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://dns10.quad9.net/dns-query",
+    "name": "Quad9 Unfiltered (Gaming)",
+    "ips_v4": "9.9.9.10,149.112.112.10",
+    "ips_v6": "",
+    "description": "Fast, unfiltered DNS from Quad9 — ideal for gaming without false positives.",
+    "description_fa": "DNS سریع و بدون فیلتر Quad9، گزینه ایده‌آل برای بازی با مسیریابی اصلاح شده.",
+    "website": "https://www.quad9.net/",
+    "tag": "C"
+  },
+  {
+    "url": "https://common.dot.dns.yandex.net/dns-query",
+    "name": "Yandex Basic",
+    "ips_v4": "77.88.8.8,77.88.8.1",
+    "ips_v6": "",
+    "description": "Fast, unfiltered DNS from Yandex with solid connectivity across Eastern Europe and Asia.",
+    "description_fa": "DNS سریع و بدون فیلتر یاندکس با اتصال خوب در اروپای شرقی و آسیا.",
+    "website": "https://dns.yandex.com/",
+    "tag": "U"
+  },
+  {
+    "url": "https://dns.verisign.com/dns-query",
+    "name": "Verisign (Gaming)",
+    "ips_v4": "64.6.64.6,64.6.65.6",
+    "ips_v6": "",
+    "description": "Stable, low-latency DNS backbone from Verisign.",
+    "description_fa": "زیرساخت DNS پایدار و کم‌تأخیر از Verisign.",
+    "website": "https://www.verisign.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://dns.alternate-dns.com/dns-query",
+    "name": "Alternate DNS (Gaming)",
+    "ips_v4": "76.76.19.19,76.223.122.150",
+    "ips_v6": "",
+    "description": "Fast DNS resolver with no filtering overhead, well suited for gaming.",
+    "description_fa": "رزولور DNS سریع بدون اضافه‌بار فیلترینگ، مناسب برای بازی.",
+    "website": "https://alternate-dns.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh.ultradns.com/dns-query",
+    "name": "Neustar UltraDNS Unfiltered",
+    "ips_v4": "156.154.70.1,156.154.71.1",
+    "ips_v6": "",
+    "description": "Enterprise-grade recursive DNS with no filtering by default.",
+    "description_fa": "DNS بازگشتی در سطح سازمانی، بدون هیچ فیلتری به‌صورت پیش‌فرض.",
+    "website": "https://www.ultradns.com/",
+    "tag": "U"
+  },
+  {
+    "url": "https://resolver1.dns.watch/dns-query",
+    "name": "DNS.WATCH (Gaming)",
+    "ips_v4": "84.200.69.80,84.200.70.40",
+    "ips_v6": "",
+    "description": "Privacy-focused DNS with very fast response times across Europe.",
+    "description_fa": "DNS متمرکز بر حریم خصوصی با زمان پاسخ بسیار سریع در اروپا.",
+    "website": "https://dns.watch/",
+    "tag": "C"
+  },
+  {
+    "url": "https://unfiltered.adguard-dns.com/dns-query",
+    "name": "AdGuard Non-filtering",
+    "ips_v4": "94.140.14.140,94.140.15.141",
+    "ips_v6": "",
+    "description": "AdGuard DNS without ad blocking — just clean, fast resolution.",
+    "description_fa": "نسخه ادگارد بدون مسدودسازی تبلیغات؛ فقط رفع نام خالص و سریع.",
+    "website": "https://adguard-dns.io/",
+    "tag": "U"
+  },
+  {
+    "url": "https://zero.dns0.eu/",
+    "name": "DNS0.eu Zero",
+    "ips_v4": "193.110.81.0,185.253.5.0",
+    "ips_v6": "",
+    "description": "Open European DNS with no filtering, built around privacy and speed.",
+    "description_fa": "DNS باز اروپایی بدون فیلتر، با تمرکز بر حریم خصوصی و سرعت.",
+    "website": "https://www.dns0.eu/",
+    "tag": "U"
+  },
+  {
+    "url": "https://doh.libredns.gr/",
+    "name": "LibreDNS Adblock",
+    "ips_v4": "116.203.115.192",
+    "ips_v6": "",
+    "description": "LibreDNS variant that filters out ads and tracking servers.",
+    "description_fa": "نسخه‌ای از LibreDNS که تبلیغات و سرورهای ردیابی را فیلتر می‌کند.",
+    "website": "https://libredns.gr/",
+    "tag": "A"
+  },
+  {
+    "url": "https://doh.censurfridns.dk/dns-query",
+    "name": "FreeDNS (censurfridns)",
+    "ips_v4": "37.235.1.174,37.235.1.177",
+    "ips_v6": "",
+    "description": "Uncensored, no-log DNS hosted in Denmark — a solid privacy-friendly choice for everyday use.",
+    "description_fa": "DNS بدون سانسور و بدون لاگ، میزبانی‌شده در دانمارک؛ گزینه خوبی برای استفاده روزمره با رویکرد حریم خصوصی.",
+    "website": "https://censurfridns.dk/",
+    "tag": "U"
+  },
+  {
+    "url": "https://doh.baidu.com/dns-query",
+    "name": "Baidu DNS",
+    "ips_v4": "180.76.76.76",
+    "ips_v6": "",
+    "description": "Fast public DNS from Baidu, optimized for users in China and across Asia.",
+    "description_fa": "DNS عمومی سریع بایدو، بهینه‌شده برای کاربران چین و آسیا.",
+    "website": "https://dns.baidu.com/",
+    "tag": "U"
+  },
+  {
+    "url": "https://dns.alidns.com/dns-query",
+    "name": "AliDNS",
+    "ips_v4": "223.5.5.5,223.6.6.6",
+    "ips_v6": "",
+    "description": "Alibaba's public DNS, offering low latency across the Asia-Pacific region.",
+    "description_fa": "DNS عمومی علی‌بابا با تأخیر پایین در منطقه آسیا-اقیانوسیه.",
+    "website": "https://alidns.com/",
+    "tag": "U"
+  },
+  {
+    "url": "https://1.2.4.8/dns-query",
+    "name": "CNNIC SDNS",
+    "ips_v4": "1.2.4.8,210.2.4.8",
+    "ips_v6": "",
+    "description": "Public DNS from the China Internet Network Information Center, with broad regional coverage.",
+    "description_fa": "DNS عمومی مرکز اطلاعات شبکه اینترنت چین با پوشش گسترده در منطقه.",
+    "website": "https://www.cnnic.cn/",
+    "tag": "U"
+  },
+  {
+    "url": "https://dns.cobalt.io/dns-query",
+    "name": "Cobalt DNS",
+    "ips_v4": "37.97.193.116,37.97.193.117",
+    "ips_v6": "",
+    "description": "Neutral, no-log DNS service hosted in the Netherlands.",
+    "description_fa": "سرویس DNS بی‌طرف و بدون لاگ، میزبانی‌شده در هلند.",
+    "website": "https://cobalt.io/",
+    "tag": "U"
+  },
+  {
+    "url": "https://dns11.quad9.net/dns-query",
+    "name": "Quad9 (ECS Disabled)",
+    "ips_v4": "9.9.9.11,149.112.112.11",
+    "ips_v6": "",
+    "description": "Security-grade DNS with EDNS Client Subnet disabled for extra privacy.",
+    "description_fa": "DNS امن با غیرفعال‌سازی زیرشبکه کلاینت EDNS برای حریم خصوصی بیشتر.",
+    "website": "https://www.quad9.net/",
+    "tag": "G"
+  },
+  {
+    "url": "https://8.26.56.26/dns-query",
+    "name": "Comodo Secure DNS",
+    "ips_v4": "8.26.56.26,8.20.247.20",
+    "ips_v6": "",
+    "description": "Blocks phishing, malware, and other malicious domains by default.",
+    "description_fa": "به‌صورت پیش‌فرض فیشینگ، بدافزار و دامنه‌های مخرب را مسدود می‌کند.",
+    "website": "https://www.comodo.com/",
+    "tag": "G"
+  },
+  {
+    "url": "https://156.154.70.2/dns-query",
+    "name": "Neustar Threat Protection",
+    "ips_v4": "156.154.70.2,156.154.71.2",
+    "ips_v6": "",
+    "description": "Filters known dangerous domains to guard against malware and ransomware.",
+    "description_fa": "دامنه‌های شناخته‌شده خطرناک را فیلتر می‌کند تا در برابر بدافزار و باج‌افزار محافظت کند.",
+    "website": "https://www.ultradns.com/",
+    "tag": "G"
+  },
+  {
+    "url": "https://safe.dot.dns.yandex.net/dns-query",
+    "name": "Yandex Safe",
+    "ips_v4": "77.88.8.88,77.88.8.2",
+    "ips_v6": "",
+    "description": "Yandex's DNS that blocks malicious and fraudulent websites.",
+    "description_fa": "DNS یاندکس که وب‌سایت‌های مخرب و کلاهبرداری را مسدود می‌کند.",
+    "website": "https://dns.yandex.com/",
+    "tag": "G"
+  },
+  {
+    "url": "https://protected.dns0.eu/",
+    "name": "DNS0.eu Protected",
+    "ips_v4": "193.110.81.1,185.253.5.1",
+    "ips_v6": "",
+    "description": "Blocks malware, phishing, and other threats, built to meet European privacy standards.",
+    "description_fa": "بدافزار، فیشینگ و سایر تهدیدها را مسدود می‌کند و با استانداردهای حریم خصوصی اروپا هم‌خوانی دارد.",
+    "website": "https://www.dns0.eu/",
+    "tag": "G"
+  },
+  {
+    "url": "https://dns.comss.one/dns-query",
+    "name": "Comss.one Antiphishing",
+    "ips_v4": "83.220.169.38,83.220.169.39",
+    "ips_v6": "",
+    "description": "Focused on blocking phishing sites and online scams.",
+    "description_fa": "تمرکز اصلی روی مسدودسازی سایت‌های فیشینگ و کلاهبرداری‌های آنلاین.",
+    "website": "https://www.comss.ru/",
+    "tag": "G"
+  },
+  {
+    "url": "https://195.46.39.39/dns-query",
+    "name": "SafeDNS Security",
+    "ips_v4": "195.46.39.39,195.46.39.40",
+    "ips_v6": "",
+    "description": "Cloud-based DNS filtering that blocks malware, botnets, and phishing.",
+    "description_fa": "فیلترینگ DNS مبتنی بر ابر که بدافزار، بات‌نت‌ها و فیشینگ را مسدود می‌کند.",
+    "website": "https://www.safedns.com/",
+    "tag": "G"
+  },
+  {
+    "url": "https://protected.canadianshield.cira.ca/dns-query",
+    "name": "CIRA Protected",
+    "ips_v4": "149.112.121.20,149.112.122.20",
+    "ips_v6": "",
+    "description": "Canadian Shield's security tier, blocking malware and phishing.",
+    "description_fa": "سطح امنیتی Canadian Shield که بدافزار و فیشینگ را مسدود می‌کند.",
+    "website": "https://www.cira.ca/",
+    "tag": "G"
+  },
+  {
+    "url": "https://dns.decloudus.com/dns-query",
+    "name": "DeCloudUs NoBlock",
+    "ips_v4": "78.47.223.114",
+    "ips_v6": "",
+    "description": "Privacy-focused DNS with no filtering at all, hosted in Germany.",
+    "description_fa": "DNS متمرکز بر حریم خصوصی بدون هیچ فیلتری، میزبانی‌شده در آلمان.",
+    "website": "https://decloudus.com/",
+    "tag": "S"
+  },
+  {
+    "url": "https://85.214.20.141/dns-query",
+    "name": "FoeBuD e.V.",
+    "ips_v4": "85.214.20.141",
+    "ips_v6": "",
+    "description": "German privacy-respecting DNS resolver with no logging.",
+    "description_fa": "رزولور DNS آلمانی با احترام به حریم خصوصی و بدون ثبت لاگ.",
+    "website": "https://www.foebud.org/",
+    "tag": "S"
+  },
+  {
+    "url": "https://46.182.19.48/dns-query",
+    "name": "Digital Courage",
+    "ips_v4": "46.182.19.48",
+    "ips_v6": "",
+    "description": "Privacy-oriented DNS run by a German non-profit digital-rights group.",
+    "description_fa": "DNS متمرکز بر حریم خصوصی که توسط یک گروه غیرانتفاعی آلمانی فعال در حوزه حقوق دیجیتال اداره می‌شود.",
+    "website": "https://digitalcourage.de/",
+    "tag": "S"
+  },
+  {
+    "url": "https://194.39.228.5/dns-query",
+    "name": "RegioDNS",
+    "ips_v4": "194.39.228.5,194.39.228.6",
+    "ips_v6": "",
+    "description": "No-log DNS based in the Netherlands, focused on user privacy.",
+    "description_fa": "DNS بدون لاگ و مستقر در هلند، با تمرکز بر حریم خصوصی کاربر.",
+    "website": "https://regiodns.net/",
+    "tag": "S"
+  },
+  {
+    "url": "https://185.96.99.18/dns-query",
+    "name": "Redimak DNS",
+    "ips_v4": "185.96.99.18,185.96.99.19",
+    "ips_v6": "",
+    "description": "Privacy-first, no-log DNS located in Moldova.",
+    "description_fa": "DNS بدون لاگ با اولویت حریم خصوصی، مستقر در مولداوی.",
+    "website": "https://redimak.net/",
+    "tag": "S"
+  },
+  {
+    "url": "https://doh-ch.blahdns.com/dns-query",
+    "name": "BlahDNS (Switzerland)",
+    "ips_v4": "45.91.92.125",
+    "ips_v6": "",
+    "description": "Privacy-centric DNS server in Switzerland with no logging.",
+    "description_fa": "سرور DNS متمرکز بر حریم خصوصی در سوئیس، بدون ثبت لاگ.",
+    "website": "https://blahdns.com/",
+    "tag": "S"
+  },
+  {
+    "url": "https://91.239.100.100/dns-query",
+    "name": "UncensoredDNS",
+    "ips_v4": "91.239.100.100,89.233.43.71",
+    "ips_v6": "",
+    "description": "DNS with a strict no-logging, no-censorship policy, hosted in Denmark.",
+    "description_fa": "DNS با سیاست سخت‌گیرانه عدم ثبت لاگ و بدون سانسور، میزبانی‌شده در دانمارک.",
+    "website": "https://uncensoreddns.org/",
+    "tag": "S"
+  },
+  {
+    "url": "https://185.121.177.177/dns-query",
+    "name": "OpenNIC (Switzerland)",
+    "ips_v4": "185.121.177.177",
+    "ips_v6": "",
+    "description": "OpenNIC community DNS node in Switzerland, fully uncensored.",
+    "description_fa": "گره DNS اجتماعی OpenNIC در سوئیس، بدون هیچ‌گونه سانسور.",
+    "website": "https://www.opennic.org/",
+    "tag": "S"
+  },
+  {
+    "url": "https://89.233.43.71/dns-query",
+    "name": "OpenNIC (Germany)",
+    "ips_v4": "89.233.43.71",
+    "ips_v6": "",
+    "description": "OpenNIC node in Germany, supporting privacy and unrestricted access.",
+    "description_fa": "گره OpenNIC در آلمان که از حریم خصوصی و دسترسی بدون محدودیت پشتیبانی می‌کند.",
+    "website": "https://www.opennic.org/",
+    "tag": "S"
+  },
+  {
+    "url": "https://4.2.2.1/dns-query",
+    "name": "Level3 Alternate (Gaming)",
+    "ips_v4": "4.2.2.1,4.2.2.3",
+    "ips_v6": "",
+    "description": "Additional Level3 DNS nodes tuned for low-latency connections.",
+    "description_fa": "گره‌های اضافی Level3، بهینه‌شده برای اتصال با تأخیر پایین.",
+    "website": "https://www.lumen.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://adblock.dns.mullvad.net/dns-query",
+    "name": "Mullvad Adblock",
+    "ips_v4": "194.242.2.2",
+    "ips_v6": "",
+    "description": "Mullvad's public DNS, blocking ads and trackers by default.",
+    "description_fa": "DNS عمومی Mullvad که به‌صورت پیش‌فرض تبلیغات و ردیاب‌ها را مسدود می‌کند.",
+    "website": "https://mullvad.net/",
+    "tag": "A"
+  },
+  {
+    "url": "https://freedns.controld.com/p0",
+    "name": "ControlD Standard Adblock",
+    "ips_v4": "76.76.2.0",
+    "ips_v6": "",
+    "description": "Free ad-blocking DNS from ControlD, covering most ads and trackers.",
+    "description_fa": "DNS رایگان مسدودکننده تبلیغات از ControlD که بخش عمده تبلیغات و ردیاب‌ها را مسدود می‌کند.",
+    "website": "https://controld.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://adblock.dns.decloudus.com/dns-query",
+    "name": "DeCloudUs Adblock",
+    "ips_v4": "78.47.223.113",
+    "ips_v6": "",
+    "description": "Privacy DNS with aggressive ad and tracker blocking.",
+    "description_fa": "DNS حریم‌خصوصی‌محور با مسدودسازی تهاجمی تبلیغات و ردیاب‌ها.",
+    "website": "https://decloudus.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://adblock.dns.nixnet.xyz/dns-query",
+    "name": "NixNet Adblock",
+    "ips_v4": "198.251.90.115",
+    "ips_v6": "",
+    "description": "NixNet's DNS server, blocking ads and telemetry.",
+    "description_fa": "سرور DNS نیکس‌نت که تبلیغات و تله‌متری را مسدود می‌کند.",
+    "website": "https://nixnet.xyz/",
+    "tag": "A"
+  },
+  {
+    "url": "https://doh-es.blahdns.com/dns-query",
+    "name": "BlahDNS Spain (Adblock)",
+    "ips_v4": "136.244.105.91",
+    "ips_v6": "",
+    "description": "BlahDNS's Spanish node, with ad and tracker blocking enabled.",
+    "description_fa": "گره اسپانیایی BlahDNS با مسدودسازی فعال تبلیغات و ردیاب.",
+    "website": "https://blahdns.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://doh.se.ahadns.net/dns-query",
+    "name": "AhaDNS Sweden (Adblock)",
+    "ips_v4": "45.153.187.98,45.153.187.99",
+    "ips_v6": "",
+    "description": "Swedish AhaDNS server blocking ads, trackers, and malicious domains.",
+    "description_fa": "سرور سوئدی AhaDNS که تبلیغات، ردیاب‌ها و دامنه‌های مخرب را مسدود می‌کند.",
+    "website": "https://ahadns.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://138.201.152.26/dns-query",
+    "name": "Keweon DNS",
+    "ips_v4": "138.201.152.26,138.201.152.27",
+    "ips_v6": "",
+    "description": "DNS-based ad blocking from Germany, without false positives.",
+    "description_fa": "مسدودسازی تبلیغات مبتنی بر DNS از آلمان، بدون هشدارهای اشتباه.",
+    "website": "https://keweon.center/",
+    "tag": "A"
+  },
+  {
+    "url": "https://sky.rethinkdns.com/",
+    "name": "RethinkDNS Basic (Adblock)",
+    "ips_v4": "94.130.153.184",
+    "ips_v6": "",
+    "description": "Free DNS with configurable blocklists, blocking ads by default.",
+    "description_fa": "DNS رایگان با لیست‌های مسدودسازی قابل تنظیم که به‌صورت پیش‌فرض تبلیغات را مسدود می‌کند.",
+    "website": "https://rethinkdns.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://blitz.ahadns.com/",
+    "name": "AhaDNS Blitz (Adblock)",
+    "ips_v4": "5.2.75.75,5.2.75.76",
+    "ips_v6": "",
+    "description": "Global anycast AhaDNS server, tuned for ad blocking.",
+    "description_fa": "سرور جهانی AhaDNS مبتنی بر Anycast، بهینه‌شده برای مسدودسازی تبلیغات.",
+    "website": "https://ahadns.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://doh.nl.ahadns.net/dns-query",
+    "name": "AhaDNS Netherlands (Adblock)",
+    "ips_v4": "45.153.187.96",
+    "ips_v6": "",
+    "description": "Dutch AhaDNS node with ad and malware blocking.",
+    "description_fa": "گره هلندی AhaDNS با مسدودسازی تبلیغات و بدافزار.",
+    "website": "https://ahadns.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://doh-jp.blahdns.com/dns-query",
+    "name": "AhaDNS Japan (Adblock)",
+    "ips_v4": "45.90.28.0",
+    "ips_v6": "",
+    "description": "Japan-based AhaDNS (BlahDNS) with ad blocking and low latency across Asia.",
+    "description_fa": "AhaDNS مستقر در ژاپن (BlahDNS) با مسدودسازی تبلیغات و تأخیر پایین در آسیا.",
+    "website": "https://ahadns.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://doh.uk.ahadns.net/dns-query",
+    "name": "AhaDNS UK (Adblock)",
+    "ips_v4": "51.158.147.247",
+    "ips_v6": "",
+    "description": "UK AhaDNS server blocking ads and trackers.",
+    "description_fa": "سرور بریتانیایی AhaDNS که تبلیغات و ردیاب‌ها را مسدود می‌کند.",
+    "website": "https://ahadns.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://familyshield.opendns.com/dns-query",
+    "name": "OpenDNS FamilyShield",
+    "ips_v4": "208.67.222.123,208.67.220.123",
+    "ips_v6": "",
+    "description": "Pre-configured to block adult content and enforce safe search.",
+    "description_fa": "از پیش پیکربندی‌شده برای مسدودسازی محتوای بزرگسالان و فعال‌سازی جستجوی ایمن.",
+    "website": "https://www.opendns.com/",
+    "tag": "F"
+  },
+  {
+    "url": "https://family.cloudflare-dns.com/dns-query",
+    "name": "Cloudflare Family",
+    "ips_v4": "1.1.1.3,1.0.0.3",
+    "ips_v6": "",
+    "description": "Blocks malware and adult content — a solid pick for a family-safe setup.",
+    "description_fa": "بدافزار و محتوای بزرگسالان را مسدود می‌کند؛ گزینه مناسبی برای محیط خانوادگی امن.",
+    "website": "https://1.1.1.1/",
+    "tag": "F"
+  },
+  {
+    "url": "https://doh.cleanbrowsing.org/doh/family-filter/",
+    "name": "CleanBrowsing Family",
+    "ips_v4": "185.228.168.168,185.228.169.168",
+    "ips_v6": "",
+    "description": "Enforces safe search and blocks adult, pornographic, and explicit content.",
+    "description_fa": "جستجوی ایمن را فعال می‌کند و محتوای بزرگسالان و صریح جنسی را مسدود می‌کند.",
+    "website": "https://cleanbrowsing.org/",
+    "tag": "F"
+  },
+  {
+    "url": "https://156.154.70.3/dns-query",
+    "name": "Neustar Family Secure",
+    "ips_v4": "156.154.70.3,156.154.71.3",
+    "ips_v6": "",
+    "description": "Blocks adult content, gambling, violence, and other non-family-friendly material.",
+    "description_fa": "محتوای بزرگسالان، قمار، خشونت و سایر محتوای نامناسب برای خانواده را مسدود می‌کند.",
+    "website": "https://www.ultradns.com/",
+    "tag": "F"
+  },
+  {
+    "url": "https://family.dot.dns.yandex.net/dns-query",
+    "name": "Yandex Family",
+    "ips_v4": "77.88.8.7,77.88.8.3",
+    "ips_v6": "",
+    "description": "Yandex's DNS that filters adult and explicit content.",
+    "description_fa": "DNS یاندکس که محتوای بزرگسالان و صریح جنسی را فیلتر می‌کند.",
+    "website": "https://dns.yandex.com/",
+    "tag": "F"
+  },
+  {
+    "url": "https://family.adguard-dns.com/dns-query",
+    "name": "AdGuard Family",
+    "ips_v4": "94.140.14.15,94.140.15.16",
+    "ips_v6": "",
+    "description": "Blocks ads and adult sites while enforcing safe search.",
+    "description_fa": "تبلیغات و سایت‌های بزرگسالان را مسدود می‌کند و جستجوی ایمن را فعال می‌کند.",
+    "website": "https://adguard-dns.io/",
+    "tag": "F"
+  },
+  {
+    "url": "https://doh.cleanbrowsing.org/doh/adult-filter/",
+    "name": "CleanBrowsing Adult",
+    "ips_v4": "185.228.168.10,185.228.169.11",
+    "ips_v6": "",
+    "description": "Blocks adult-only content while leaving general browsing untouched.",
+    "description_fa": "محتوای ویژه بزرگسالان را مسدود می‌کند، بدون آن‌که در مرور عمومی محدودیتی ایجاد کند.",
+    "website": "https://cleanbrowsing.org/",
+    "tag": "F"
+  },
+  {
+    "url": "https://kids.dns0.eu/",
+    "name": "DNS0.eu Kids",
+    "ips_v4": "193.110.81.2,185.253.5.2",
+    "ips_v6": "",
+    "description": "Strong filtering for kids, blocking adult, violent, and otherwise mature content.",
+    "description_fa": "فیلترینگ قوی برای کودکان؛ محتوای بزرگسالان، خشونت‌آمیز و نامناسب سنی را مسدود می‌کند.",
+    "website": "https://www.dns0.eu/",
+    "tag": "F"
+  },
+  {
+    "url": "https://family.dns.mullvad.net/dns-query",
+    "name": "Mullvad Family",
+    "ips_v4": "194.242.2.3",
+    "ips_v6": "",
+    "description": "Mullvad's DNS variant that blocks adult and explicit content.",
+    "description_fa": "نسخه Mullvad که محتوای بزرگسالان و صریح را مسدود می‌کند.",
+    "website": "https://mullvad.net/",
+    "tag": "F"
+  },
+  {
+    "url": "https://dns-doh.dnsforfamily.com/dns-query",
+    "name": "DNS for Family",
+    "ips_v4": "94.130.180.225,78.47.64.161",
+    "ips_v6": "",
+    "description": "Purpose-built to block porn and adult content.",
+    "description_fa": "به‌طور خاص برای مسدودسازی پورنوگرافی و محتوای بزرگسالان طراحی شده است.",
+    "website": "https://dnsforfamily.com/",
+    "tag": "F"
+  },
+  {
+    "url": "https://freedns.controld.com/family",
+    "name": "ControlD Family",
+    "ips_v4": "76.76.2.1",
+    "ips_v6": "",
+    "description": "Blocks adult, dating, and other mature content for family safety.",
+    "description_fa": "برای ایمنی خانواده، محتوای بزرگسالان، دوست‌یابی و سایر محتوای نامناسب سنی را مسدود می‌کند.",
+    "website": "https://controld.com/",
+    "tag": "F"
+  },
+  {
+    "url": "https://freedns.controld.com/family-extreme",
+    "name": "ControlD Extreme Family",
+    "ips_v4": "76.76.2.3",
+    "ips_v6": "",
+    "description": "Stricter family profile that also blocks social media alongside adult content.",
+    "description_fa": "پروفایل سخت‌گیرانه‌تر خانواده که علاوه بر محتوای بزرگسالان، شبکه‌های اجتماعی را هم مسدود می‌کند.",
+    "website": "https://controld.com/",
+    "tag": "F"
+  },
+  {
+    "url": "https://family.dns.nixnet.xyz/dns-query",
+    "name": "NixNet Family",
+    "ips_v4": "198.251.90.116",
+    "ips_v6": "",
+    "description": "NixNet's DNS, filtering adult and inappropriate content.",
+    "description_fa": "DNS نیکس‌نت که محتوای بزرگسالان و نامناسب را فیلتر می‌کند.",
+    "website": "https://nixnet.xyz/",
+    "tag": "F"
+  },
+  {
+    "url": "https://family.canadianshield.cira.ca/dns-query",
+    "name": "CIRA Family",
+    "ips_v4": "149.112.121.30,149.112.122.30",
+    "ips_v6": "",
+    "description": "Canadian Shield's family tier — blocks adult, hateful, and violent content.",
+    "description_fa": "سطح خانوادگی Canadian Shield که محتوای بزرگسالان، نفرت‌پراکنی و خشونت را مسدود می‌کند.",
+    "website": "https://www.cira.ca/",
+    "tag": "F"
+  },
+  {
+    "url": "https://kids.ahadns.com/dns-query",
+    "name": "AhaDNS Kids",
+    "ips_v4": "5.2.75.77,5.2.75.78",
+    "ips_v6": "",
+    "description": "AhaDNS server that filters adult content and enforces safe search.",
+    "description_fa": "سرور AhaDNS که محتوای بزرگسالان را فیلتر می‌کند و جستجوی ایمن را فعال می‌سازد.",
+    "website": "https://ahadns.com/",
+    "tag": "F"
+  },
+  {
+    "url": "https://180.131.144.144/dns-query",
+    "name": "Nawala",
+    "ips_v4": "180.131.144.144,180.131.145.145",
+    "ips_v6": "",
+    "description": "Indonesian DNS that blocks pornography and explicit material.",
+    "description_fa": "DNS اندونزیایی که پورنوگرافی و محتوای صریح جنسی را مسدود می‌کند.",
+    "website": "https://nawala.id/",
+    "tag": "F"
+  },
+  {
+    "url": "https://kids.nl.ahadns.net/dns-query",
+    "name": "AhaDNS Netherlands Kids",
+    "ips_v4": "45.153.187.92",
+    "ips_v6": "",
+    "description": "Dutch node of AhaDNS Kids, filtering adult and violent content.",
+    "description_fa": "گره هلندی AhaDNS Kids که محتوای بزرگسالان و خشونت‌آمیز را فیلتر می‌کند.",
+    "website": "https://ahadns.com/",
+    "tag": "F"
+  },
+  {
+    "url": "https://family.rethinkdns.com/",
+    "name": "RethinkDNS Family",
+    "ips_v4": "94.130.153.184",
+    "ips_v6": "",
+    "description": "RethinkDNS with family-friendly filtering, blocking adult and explicit sites.",
+    "description_fa": "RethinkDNS با فیلترینگ مناسب خانواده که سایت‌های بزرگسالان و صریح را مسدود می‌کند.",
+    "website": "https://rethinkdns.com/",
+    "tag": "F"
+  },
+  {
+    "url": "https://dns.google/dns-query",
+    "name": "Google DNS (Middle East)",
+    "ips_v4": "8.8.8.8,8.8.4.4",
+    "ips_v6": "2001:4860:4860::8888",
+    "description": "Google's anycast DNS has points of presence in Dubai and Istanbul, often the lowest-latency global option for Middle Eastern gamers.",
+    "description_fa": "DNS مبتنی بر Anycast گوگل نقاط حضور در دبی و استانبول دارد و اغلب کم‌تأخیرترین گزینه جهانی برای گیمرهای خاورمیانه است.",
+    "website": "https://developers.google.com/speed/public-dns/",
+    "tag": "C"
+  },
+  {
+    "url": "https://cloudflare-dns.com/dns-query",
+    "name": "Cloudflare DNS (Gaming ME)",
+    "ips_v4": "1.1.1.1,1.0.0.1",
+    "ips_v6": "2606:4700:4700::1111",
+    "description": "Cloudflare's gaming-tuned anycast DNS, with a node in Istanbul that cuts latency for Steam and other game platforms.",
+    "description_fa": "DNS مبتنی بر Anycast کلودفلر، بهینه‌شده برای بازی، با گرهی در استانبول که تأخیر استیم و سایر پلتفرم‌های بازی را کاهش می‌دهد.",
+    "website": "https://1.1.1.1/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh.sb/dns-query",
+    "name": "DNS.SB Gaming",
+    "ips_v4": "185.222.222.222,45.11.45.11",
+    "ips_v6": "2a09::/32",
+    "description": "Anycast DNS with nodes in Frankfurt and Singapore — a good fit for gaming latency in the Middle East.",
+    "description_fa": "DNS مبتنی بر Anycast با گره‌هایی در فرانکفورت و سنگاپور؛ گزینه خوبی برای کاهش تأخیر بازی در خاورمیانه.",
+    "website": "https://dns.sb/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh.tiar.app/dns-query",
+    "name": "Tiarap DNS (Asia/ME Gaming)",
+    "ips_v4": "174.138.29.175",
+    "ips_v6": "",
+    "description": "Singapore-based DoH resolver with low latency to Middle East gaming servers, no-log and privacy-respecting.",
+    "description_fa": "رزولور DoH مستقر در سنگاپور با تأخیر پایین به سرورهای بازی خاورمیانه؛ بدون لاگ و با رعایت حریم خصوصی.",
+    "website": "https://doh.tiar.app/",
+    "tag": "C"
+  },
+  {
+    "url": "https://dns.nextdns.io/gaming",
+    "name": "NextDNS Gaming",
+    "ips_v4": "45.90.28.0,45.90.30.0",
+    "ips_v6": "2a07:a8c0::,2a07:a8c1::",
+    "description": "NextDNS's anycast network spans 200+ points of presence — its no-filter mode is ideal for gaming.",
+    "description_fa": "شبکه Anycast NextDNS بیش از ۲۰۰ نقطه حضور دارد؛ حالت بدون فیلترش برای بازی ایده‌آل است.",
+    "website": "https://nextdns.io/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh.applied-privacy.net/query",
+    "name": "Applied Privacy (Gaming)",
+    "ips_v4": "146.255.56.98",
+    "ips_v6": "2a02:1b8:10:21::2",
+    "description": "Austrian no-log DNS with fast routing across Europe — a solid gaming alternative when Iranian IPs get blocked.",
+    "description_fa": "DNS اتریشی بدون لاگ با مسیریابی سریع در اروپا؛ گزینه مناسبی برای بازی وقتی آی‌پی‌های ایرانی مسدود می‌شوند.",
+    "website": "https://applied-privacy.net/",
+    "tag": "C"
+  },
+  {
+    "url": "https://freedns.controld.com/uncensored",
+    "name": "ControlD Uncensored (Gaming)",
+    "ips_v4": "76.76.2.4",
+    "ips_v6": "",
+    "description": "ControlD's uncensored profile bypasses geo-filtering — useful for reaching game services blocked in Iran.",
+    "description_fa": "پروفایل بدون سانسور ControlD فیلتر جغرافیایی را دور می‌زند؛ برای دسترسی به سرویس‌های بازی مسدودشده در ایران مفید است.",
+    "website": "https://controld.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://ott.dnswarden.com/adultfilter",
+    "name": "DNSWarden Uncensored",
+    "ips_v4": "116.203.35.255,116.203.70.220",
+    "ips_v6": "",
+    "description": "Uncensored DNS with no geo-filtering, useful for bypassing game service restrictions.",
+    "description_fa": "DNS بدون سانسور و بدون فیلتر جغرافیایی؛ مفید برای دور زدن محدودیت‌های سرویس بازی.",
+    "website": "https://dnswarden.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://dns.mullvad.net/dns-query",
+    "name": "Mullvad Base DNS",
+    "ips_v4": "194.242.2.2",
+    "ips_v6": "2a07:e340::2",
+    "description": "Mullvad's unfiltered public DNS — zero logging, run by a VPN provider known for privacy.",
+    "description_fa": "DNS عمومی بدون فیلتر Mullvad؛ بدون هیچ لاگ، اداره‌شده توسط ارائه‌دهنده‌ای VPN که به حریم خصوصی معروف است.",
+    "website": "https://mullvad.net/",
+    "tag": "S"
+  },
+  {
+    "url": "https://dns.nextdns.io/",
+    "name": "NextDNS (No Config)",
+    "ips_v4": "45.90.28.0,45.90.30.0",
+    "ips_v6": "",
+    "description": "NextDNS in open mode with no blocklist — clean resolution on privacy-focused infrastructure.",
+    "description_fa": "NextDNS در حالت باز بدون هیچ لیست مسدودی؛ رفع نام خالص روی زیرساختی متمرکز بر حریم خصوصی.",
+    "website": "https://nextdns.io/",
+    "tag": "S"
+  },
+  {
+    "url": "https://doh.ffmuc.net/dns-query",
+    "name": "FFMUC Munich",
+    "ips_v4": "195.30.94.28,195.30.94.29",
+    "ips_v6": "2a06:8782:ffbb:1337::3",
+    "description": "Free DNS from Munich's Freifunk community — no logging, privacy-respecting.",
+    "description_fa": "DNS رایگان جامعه Freifunk مونیخ؛ بدون لاگ و با رعایت حریم خصوصی.",
+    "website": "https://ffmuc.net/",
+    "tag": "S"
+  },
+  {
+    "url": "https://doh.dnswarden.com/uncensored",
+    "name": "DNSWarden Uncensored",
+    "ips_v4": "116.203.35.255",
+    "ips_v6": "2a01:4f8:c0c:83ed::1",
+    "description": "Uncensored, no-log privacy DNS hosted in Europe by DNSWarden.",
+    "description_fa": "DNS حریم‌خصوصی‌محور، بدون سانسور و بدون لاگ، میزبانی‌شده در اروپا توسط DNSWarden.",
+    "website": "https://dnswarden.com/",
+    "tag": "S"
+  },
+  {
+    "url": "https://jp.tiarap.org/dns-query",
+    "name": "Tiarap Japan",
+    "ips_v4": "172.104.93.80",
+    "ips_v6": "",
+    "description": "Japan-based, no-log privacy DNS with good latency across Asia-Pacific.",
+    "description_fa": "DNS حریم‌خصوصی‌محور و بدون لاگ، مستقر در ژاپن، با تأخیر خوب در آسیا-اقیانوسیه.",
+    "website": "https://doh.tiar.app/",
+    "tag": "S"
+  },
+  {
+    "url": "https://doh.la.ahadns.net/dns-query",
+    "name": "AhaDNS Los Angeles",
+    "ips_v4": "45.67.219.208",
+    "ips_v6": "",
+    "description": "AhaDNS's US West Coast node — no-log with a strict privacy policy.",
+    "description_fa": "گره AhaDNS در ساحل غربی آمریکا؛ بدون لاگ و با سیاست سخت‌گیرانه حریم خصوصی.",
+    "website": "https://ahadns.com/",
+    "tag": "S"
+  },
+  {
+    "url": "https://odvr.nic.cz/doh",
+    "name": "ODVR CZ.NIC",
+    "ips_v4": "193.17.47.1,185.43.135.1",
+    "ips_v6": "2001:148f:ffff::1",
+    "description": "Czech national DNS resolver run by CZ.NIC, with DNSSEC validation and no logging.",
+    "description_fa": "رزولور ملی DNS چک که توسط CZ.NIC اداره می‌شود؛ با تأیید DNSSEC و بدون ثبت لاگ.",
+    "website": "https://www.nic.cz/odvr/",
+    "tag": "S"
+  },
+  {
+    "url": "https://dns.oszx.co/dns-query",
+    "name": "OSZX DNS",
+    "ips_v4": "51.38.83.141",
+    "ips_v6": "2001:41d0:801:2000::d64",
+    "description": "Small privacy-focused DNS run in the UK with a strict no-log policy.",
+    "description_fa": "DNS کوچک و حریم‌خصوصی‌محور اداره‌شده در بریتانیا، با سیاست سخت‌گیرانه بدون لاگ.",
+    "website": "https://dns.oszx.co/",
+    "tag": "S"
+  },
+  {
+    "url": "https://dns.quad9.net/dns-query",
+    "name": "Quad9 (Anycast)",
+    "ips_v4": "9.9.9.9,149.112.112.112",
+    "ips_v6": "2620:fe::fe,2620:fe::9",
+    "description": "Quad9's anycast endpoint, blocking malware and phishing with global coverage.",
+    "description_fa": "نقطه پایانی Anycast کواد9 که بدافزار و فیشینگ را با پوشش جهانی مسدود می‌کند.",
+    "website": "https://www.quad9.net/",
+    "tag": "G"
+  },
+  {
+    "url": "https://doh.dnswarden.com/adblock",
+    "name": "DNSWarden Security",
+    "ips_v4": "116.203.35.255",
+    "ips_v6": "",
+    "description": "DNSWarden's security profile, blocking malware and phishing domains.",
+    "description_fa": "پروفایل امنیتی DNSWarden که دامنه‌های بدافزار و فیشینگ را مسدود می‌کند.",
+    "website": "https://dnswarden.com/",
+    "tag": "G"
+  },
+  {
+    "url": "https://freedns.controld.com/p1",
+    "name": "ControlD Malware Block",
+    "ips_v4": "76.76.2.1",
+    "ips_v6": "",
+    "description": "ControlD's security profile, blocking malware, botnets, and phishing domains.",
+    "description_fa": "پروفایل امنیتی ControlD که بدافزار، بات‌نت‌ها و دامنه‌های فیشینگ را مسدود می‌کند.",
+    "website": "https://controld.com/",
+    "tag": "G"
+  },
+  {
+    "url": "https://doh.cleanbrowsing.org/doh/security-filter/",
+    "name": "CleanBrowsing Security v2",
+    "ips_v4": "185.228.168.9,185.228.169.9",
+    "ips_v6": "2a0d:2a00:1::2",
+    "description": "CleanBrowsing's security-focused profile, now with IPv6, blocking malware and phishing.",
+    "description_fa": "پروفایل امنیتی CleanBrowsing که بدافزار و فیشینگ را مسدود می‌کند و اکنون از IPv6 هم پشتیبانی می‌کند.",
+    "website": "https://cleanbrowsing.org/",
+    "tag": "G"
+  },
+  {
+    "url": "https://dns.adguard-dns.com/dns-query",
+    "name": "AdGuard DNS (Anycast)",
+    "ips_v4": "94.140.14.14,94.140.15.15",
+    "ips_v6": "2a10:50c0::ad1:ff,2a10:50c0::ad2:ff",
+    "description": "AdGuard DNS's anycast endpoint with IPv6 support, blocking ads and trackers globally.",
+    "description_fa": "نقطه پایانی Anycast ادگارد با پشتیبانی IPv6 که تبلیغات و ردیاب‌ها را در سطح جهان مسدود می‌کند.",
+    "website": "https://adguard-dns.io/",
+    "tag": "A"
+  },
+  {
+    "url": "https://freedns.controld.com/p2",
+    "name": "ControlD Ads+Trackers",
+    "ips_v4": "76.76.2.2",
+    "ips_v6": "",
+    "description": "ControlD profile that blocks ads, trackers, and social media widgets.",
+    "description_fa": "پروفایل ControlD که تبلیغات، ردیاب‌ها و ویجت‌های شبکه‌های اجتماعی را مسدود می‌کند.",
+    "website": "https://controld.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://adblock.doh.mullvad.net/dns-query",
+    "name": "Mullvad Adblock Extended",
+    "ips_v4": "194.242.2.2",
+    "ips_v6": "2a07:e340::2",
+    "description": "Mullvad DNS with extended ad and tracker blocking — broader lists than the base adblock profile.",
+    "description_fa": "نسخه Mullvad با مسدودسازی گسترده‌تر تبلیغات و ردیاب، با لیست‌های بیشتر از پروفایل پایه.",
+    "website": "https://mullvad.net/",
+    "tag": "A"
+  },
+  {
+    "url": "https://doh.turkdns.com/dns-query",
+    "name": "TurkDNS (Turkey)",
+    "ips_v4": "185.90.61.50,185.90.61.51",
+    "ips_v6": "",
+    "description": "Turkish DNS resolver — Turkey routes well to Iran, which can unblock EU/US game servers.",
+    "description_fa": "رزولور DNS ترکیه؛ مسیریابی خوب ترکیه به ایران می‌تواند سرورهای بازی اروپا و آمریکا را باز کند.",
+    "website": "https://turkdns.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://dns.nforce.com/dns-query",
+    "name": "NFOrce Gaming DNS",
+    "ips_v4": "84.16.252.116,84.16.252.117",
+    "ips_v6": "",
+    "description": "DNS from NFOrce, a gaming-focused datacenter in Amsterdam, close to EU game servers.",
+    "description_fa": "DNS از NFOrce، دیتاسنتری متمرکز بر بازی در آمستردام، با نزدیکی مناسب به سرورهای بازی اروپا.",
+    "website": "https://www.nforce.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh.de.ahadns.net/dns-query",
+    "name": "AhaDNS Germany (Gaming)",
+    "ips_v4": "157.90.125.60",
+    "ips_v6": "2a01:4f8:1c0c:82a7::1",
+    "description": "AhaDNS's Germany node — excellent for EU gaming servers with low latency.",
+    "description_fa": "گره آلمانی AhaDNS؛ گزینه عالی برای سرورهای بازی اروپا با تأخیر پایین.",
+    "website": "https://ahadns.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh.in.ahadns.net/dns-query",
+    "name": "AhaDNS India (Gaming)",
+    "ips_v4": "45.79.120.233",
+    "ips_v6": "",
+    "description": "India-based AhaDNS — the lowest-latency option for Middle East/South Asia gaming regions.",
+    "description_fa": "AhaDNS مستقر در هند؛ کم‌تأخیرترین گزینه برای مناطق بازی خاورمیانه و جنوب آسیا.",
+    "website": "https://ahadns.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://sg.tiarap.org/dns-query",
+    "name": "Tiarap Singapore (Gaming)",
+    "ips_v4": "174.138.29.175",
+    "ips_v6": "2400:6180:100:d0::8a6:3001",
+    "description": "Singapore DoH optimized for Asia-Pacific game servers — low latency, no-log.",
+    "description_fa": "DoH سنگاپور بهینه‌شده برای سرورهای بازی آسیا-اقیانوسیه؛ تأخیر پایین و بدون لاگ.",
+    "website": "https://doh.tiar.app/",
+    "tag": "C"
+  },
+  {
+    "url": "https://au.tiarap.org/dns-query",
+    "name": "Tiarap Australia (Gaming)",
+    "ips_v4": "180.148.39.167",
+    "ips_v6": "",
+    "description": "Australia-based Tiarap node, useful for reaching OCE gaming regions.",
+    "description_fa": "گره استرالیایی Tiarap؛ مفید برای دسترسی به مناطق بازی OCE.",
+    "website": "https://doh.tiar.app/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh1.blahdns.com/dns-query",
+    "name": "BlahDNS Germany (Gaming)",
+    "ips_v4": "78.46.244.143",
+    "ips_v6": "2a01:4f8:c17:ec67::1",
+    "description": "BlahDNS's German node — fast for EU gaming regions like Steam's European servers.",
+    "description_fa": "گره آلمانی BlahDNS؛ سریع برای مناطق بازی اروپا مانند سرورهای استیم اروپا.",
+    "website": "https://blahdns.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh-fi.blahdns.com/dns-query",
+    "name": "BlahDNS Finland (Gaming)",
+    "ips_v4": "95.216.212.177",
+    "ips_v6": "2a01:4f9:c010:43ce::1",
+    "description": "BlahDNS Finland — excellent routing to Northern European gaming servers.",
+    "description_fa": "BlahDNS فنلاند؛ مسیریابی عالی به سرورهای بازی شمال اروپا.",
+    "website": "https://blahdns.com/",
+    "tag": "C"
+  },
+  {
+    "url": "https://dns.aa.net.uk/dns-query",
+    "name": "AAISP (UK Gaming)",
+    "ips_v4": "217.169.20.22,217.169.20.23",
+    "ips_v6": "2001:8b0::2020",
+    "description": "A&A's UK DNS — useful for EA, Ubisoft, and Rockstar's UK servers.",
+    "description_fa": "DNS بریتانیایی A&A؛ مفید برای سرورهای بریتانیایی EA، یوبی‌سافت و راک‌استار.",
+    "website": "https://www.aa.net.uk/",
+    "tag": "C"
+  },
+  {
+    "url": "https://doh-sg.blahdns.com/dns-query",
+    "name": "BlahDNS Singapore",
+    "ips_v4": "139.59.120.167",
+    "ips_v6": "2400:6180:0:d0::5f6e:4001",
+    "description": "BlahDNS Singapore — no-log, ad-free privacy DNS for Asia.",
+    "description_fa": "BlahDNS سنگاپور؛ DNS حریم‌خصوصی‌محور، بدون لاگ و بدون تبلیغ، برای آسیا.",
+    "website": "https://blahdns.com/",
+    "tag": "S"
+  },
+  {
+    "url": "https://dns.digitale-gesellschaft.ch/dns-query",
+    "name": "Digitale Gesellschaft v2",
+    "ips_v4": "185.95.218.42,185.95.218.43",
+    "ips_v6": "2a05:fc84::42,2a05:fc84::43",
+    "description": "Swiss digital-rights DNS with IPv6 support — DNSSEC, no-log, run by a non-profit.",
+    "description_fa": "DNS سوئیسی حقوق دیجیتال با پشتیبانی IPv6؛ دارای DNSSEC، بدون لاگ و اداره‌شده توسط یک نهاد غیرانتفاعی.",
+    "website": "https://www.digitale-gesellschaft.ch/",
+    "tag": "S"
+  },
+  {
+    "url": "https://dns.aaflalo.me/dns-query",
+    "name": "AaFlalo DNS (India)",
+    "ips_v4": "168.235.81.167",
+    "ips_v6": "",
+    "description": "India-based, no-log DoH server — good for South Asian connections.",
+    "description_fa": "سرور DoH بدون لاگ مستقر در هند؛ مناسب برای اتصالات جنوب آسیا.",
+    "website": "https://dns.aaflalo.me/",
+    "tag": "S"
+  },
+  {
+    "url": "https://doh.xfinity.com/dns-query",
+    "name": "Comcast Xfinity DNS",
+    "ips_v4": "75.75.75.75,75.75.76.76",
+    "ips_v6": "",
+    "description": "Xfinity's public DoH — a reliable US-based resolver, handy as a fallback.",
+    "description_fa": "DoH عمومی Xfinity؛ رزولور قابل‌اعتماد مستقر در آمریکا که گزینه خوبی برای پشتیبان است.",
+    "website": "https://www.xfinity.com/",
+    "tag": "S"
+  },
+  {
+    "url": "https://doh.dns.sb/dns-query",
+    "name": "DNS.SB (Frankfurt)",
+    "ips_v4": "185.222.222.222",
+    "ips_v6": "2a09::1",
+    "description": "DNS.SB's Frankfurt node — DNSSEC enabled, no-log policy, IPv6 supported.",
+    "description_fa": "گره فرانکفورت DNS.SB؛ با DNSSEC فعال، سیاست بدون لاگ و پشتیبانی IPv6.",
+    "website": "https://dns.sb/",
+    "tag": "S"
+  },
+  {
+    "url": "https://doh.dns.sb/dns-query-sg",
+    "name": "DNS.SB (Singapore)",
+    "ips_v4": "45.11.45.11",
+    "ips_v6": "2a09::2",
+    "description": "DNS.SB's Singapore node — better latency for South/East Asia.",
+    "description_fa": "گره سنگاپور DNS.SB؛ تأخیر بهتر برای جنوب و شرق آسیا.",
+    "website": "https://dns.sb/",
+    "tag": "S"
+  },
+  {
+    "url": "https://ns1.sby.id/dns-query",
+    "name": "IDN DNS (Indonesia)",
+    "ips_v4": "103.86.96.100,103.86.96.101",
+    "ips_v6": "",
+    "description": "Indonesian public, no-log DoH server with good regional routing to the Middle East.",
+    "description_fa": "سرور DoH عمومی و بدون لاگ اندونزی با مسیریابی منطقه‌ای خوب به سمت خاورمیانه.",
+    "website": "https://ns1.sby.id/",
+    "tag": "S"
+  },
+  {
+    "url": "https://doh-malware.snopyta.org/dns-query",
+    "name": "Snopyta Malware Block",
+    "ips_v4": "95.216.24.230",
+    "ips_v6": "2a01:4f9:2a:1919::9302",
+    "description": "Snopyta's Finland DoH with malware and phishing blocking enabled.",
+    "description_fa": "DoH فنلاندی Snopyta با مسدودسازی فعال بدافزار و فیشینگ.",
+    "website": "https://snopyta.org/",
+    "tag": "G"
+  },
+  {
+    "url": "https://dnsforge.de/dns-query",
+    "name": "DNSForge (Germany)",
+    "ips_v4": "176.9.93.198,176.9.1.117",
+    "ips_v6": "2a01:4f8:151:34aa::198",
+    "description": "German no-log DNS that blocks malware, ads, and trackers.",
+    "description_fa": "DNS آلمانی بدون لاگ که بدافزار، تبلیغات و ردیاب‌ها را مسدود می‌کند.",
+    "website": "https://dnsforge.de/",
+    "tag": "G"
+  },
+  {
+    "url": "https://security.cloudflare-dns.com/dns-query",
+    "name": "Cloudflare Security",
+    "ips_v4": "1.1.1.2,1.0.0.2",
+    "ips_v6": "2606:4700:4700::1112",
+    "description": "Cloudflare DNS that blocks malware — fast anycast with global coverage.",
+    "description_fa": "DNS کلودفلر که بدافزار را مسدود می‌کند؛ Anycast سریع با پوشش جهانی.",
+    "website": "https://1.1.1.1/",
+    "tag": "G"
+  },
+  {
+    "url": "https://dns.google/resolve",
+    "name": "Google DNS JSON API",
+    "ips_v4": "8.8.8.8,8.8.4.4",
+    "ips_v6": "2001:4860:4860::8888",
+    "description": "Google's alternate JSON-over-HTTPS DNS endpoint — a fallback for when the main endpoint is unreachable.",
+    "description_fa": "نقطه پایانی جایگزین JSON-over-HTTPS گوگل؛ گزینه پشتیبان برای زمانی که نقطه پایانی اصلی در دسترس نیست.",
+    "website": "https://developers.google.com/speed/public-dns/",
+    "tag": "G"
+  },
+  {
+    "url": "https://ads-doh.dnsforfamily.com/dns-query",
+    "name": "DNS for Family Adblock",
+    "ips_v4": "94.130.180.225",
+    "ips_v6": "",
+    "description": "DNS for Family's ad-blocking profile — no adult content, no ads.",
+    "description_fa": "پروفایل مسدودسازی تبلیغات DNS for Family؛ بدون محتوای بزرگسالان و بدون تبلیغات.",
+    "website": "https://dnsforfamily.com/",
+    "tag": "A"
+  },
+  {
+    "url": "https://dns.nextdns.io/adblock",
+    "name": "NextDNS Adblock",
+    "ips_v4": "45.90.28.0",
+    "ips_v6": "2a07:a8c0::",
+    "description": "NextDNS with standard ad and tracker blocking — 200+ points of presence worldwide.",
+    "description_fa": "NextDNS با مسدودسازی استاندارد تبلیغات و ردیاب؛ بیش از ۲۰۰ نقطه دسترسی در سطح جهان.",
+    "website": "https://nextdns.io/",
+    "tag": "A"
+  }
+]

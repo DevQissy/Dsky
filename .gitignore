@@ -1,0 +1,57 @@
+﻿# Android signing keys and secrets
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+key.properties
+secrets.properties
+local.properties
+.env
+.env.*
+
+# Android Studio and IDE files
+.idea/
+*.iml
+captures/
+.navigation/
+
+# Gradle
+.gradle/
+**/build/
+build/
+
+# Android build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Native build artifacts
+.externalNativeBuild/
+.cxx/
+*.so.debug
+
+# Go build artifacts
+*.exe
+*.test
+*.out
+vendor/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

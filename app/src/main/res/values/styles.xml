@@ -1,0 +1,106 @@
+<resources>
+
+  <!-- تم اصلی: همیشه دارک، بدون وابستگی به تنظیمات سیستم -->
+  <style name="AppTheme" parent="Theme.Material3.Dark.NoActionBar">
+    <item name="android:textColorLink">?android:textColorPrimary</item>
+    <item name="colorSecondary">@color/accent_good</item>
+    <item name="android:colorBackground">@color/background</item>
+    <item name="colorPrimary">@color/background</item>
+    <item name="colorPrimaryContainer">@color/background</item>
+  </style>
+
+  <!-- تم اجباری دارک برای دیالوگ‌های MaterialAlertDialog -->
+  <style name="DarkAlertDialogTheme" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+    <item name="android:forceDarkAllowed">false</item>
+    <!-- رنگ‌های پس‌زمینه و متن دیالوگ -->
+    <item name="colorSurface">#1E2430</item>
+    <item name="colorOnSurface">#FFFFFFFF</item>
+    <item name="colorOnSurfaceVariant">#BBBBBB</item>
+    <item name="colorPrimary">#AAAAFF</item>
+    <item name="android:colorBackground">#1E2430</item>
+  </style>
+
+  <!-- تم اجباری دارک برای PopupMenu -->
+  <style name="DarkPopupTheme" parent="ThemeOverlay.Material3.Dark">
+    <item name="android:forceDarkAllowed">false</item>
+    <item name="colorSurface">#1E2430</item>
+    <item name="colorOnSurface">#FFFFFFFF</item>
+    <item name="android:popupBackground">#1E2430</item>
+    <!-- عرض منو پیرو محتوا، بدون minWidth اجباری -->
+    <item name="android:dropDownWidth">wrap_content</item>
+    <item name="dropDownListViewStyle">@style/PopupMenuListStyle</item>
+  </style>
+
+  <style name="PopupMenuListStyle" parent="Widget.AppCompat.ListView.DropDown">
+    <item name="android:minWidth">0dp</item>
+  </style>
+
+  <style name="Biggest" parent="TextAppearance.Material3.DisplayLarge">
+    <item name="android:textStyle">bold</item>
+    <item name="android:textSize">60sp</item>
+  </style>
+
+  <style name="SplashDialogTheme" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowAnimationStyle">@style/DialogAnimation</item>
+  </style>
+
+  <style name="DialogAnimation">
+    <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+    <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+  </style>
+
+  <style name="FullScreenDialog" parent="Theme.Material3.Dark.Dialog">
+    <item name="android:windowIsFloating">false</item>
+    <item name="android:windowBackground">@color/background</item>
+  </style>
+
+  <style name="GlassCardStyle" parent="Widget.Material3.CardView.Elevated">
+    <item name="cardBackgroundColor">@android:color/transparent</item>
+    <item name="cardCornerRadius">12dp</item>
+    <item name="cardElevation">0dp</item>
+    <item name="cardUseCompatPadding">true</item>
+    <item name="cardPreventCornerOverlap">false</item>
+  </style>
+
+  <style name="MaterialDialogTheme" parent="ThemeOverlay.Material3.Dialog">
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:windowAnimationStyle">@style/DialogAnimation</item>
+    <item name="android:backgroundDimEnabled">true</item>
+    <item name="android:backgroundDimAmount">0.5</item>
+    <item name="android:windowMinWidthMajor">0%</item>
+    <item name="android:windowMinWidthMinor">0%</item>
+  </style>
+
+  <style name="GlassButtonStyle" parent="Widget.Material3.Button.OutlinedButton">
+    <item name="backgroundTint">@android:color/transparent</item>
+    <item name="cornerRadius">8dp</item>
+    <item name="strokeColor">#80FFFFFF</item>
+    <item name="strokeWidth">1dp</item>
+  </style>
+
+  <style name="GlassTextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+    <item name="boxBackgroundColor">@android:color/transparent</item>
+    <item name="boxBackgroundMode">outline</item>
+    <item name="boxCornerRadiusBottomStart">8dp</item>
+    <item name="boxCornerRadiusBottomEnd">8dp</item>
+    <item name="boxCornerRadiusTopStart">8dp</item>
+    <item name="boxCornerRadiusTopEnd">8dp</item>
+    <item name="android:paddingStart">0dp</item>
+    <item name="android:paddingEnd">0dp</item>
+  </style>
+
+  <style name="DialogButtonStyle" parent="Widget.Material3.Button">
+    <item name="cornerRadius">8dp</item>
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:textSize">14sp</item>
+  </style>
+
+  <style name="SplashTheme" parent="Theme.Material3.Light.NoActionBar">
+    <item name="android:windowBackground">@android:color/white</item>
+    <item name="android:windowFullscreen">false</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+
+</resources>
