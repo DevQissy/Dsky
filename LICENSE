@@ -1,0 +1,25 @@
+# Dsky Licensing Notice
+
+Copyright (c) Dev Qissy. All rights reserved for original Dsky contributions, except where otherwise specified.
+
+## Original Dsky Contributions
+
+Unless a separate license or notice explicitly states otherwise, original source code, UI implementations, designs, and assets created for Dsky by its author are proprietary and all rights are reserved.
+
+No general permission is granted to copy, modify, redistribute, sublicense, or commercially exploit these original contributions.
+
+Permission to view the public repository does not, by itself, grant a general license to reuse the original Dsky contributions.
+
+## Third-Party Code
+
+This repository contains code derived from third-party projects, including Intra by Jigsaw.
+
+Those components remain subject to their applicable licenses. In particular, Intra-derived code is governed by the applicable terms of the Apache License 2.0.
+
+Nothing in this notice revokes, restricts, or replaces rights granted under an applicable third-party license.
+
+See `THIRD_PARTY_NOTICES.md` and the relevant source files for attribution and licensing information.
+
+## No Warranty
+
+Unless required by applicable law or agreed to in writing, original Dsky contributions are provided without warranties or conditions of any kind.
